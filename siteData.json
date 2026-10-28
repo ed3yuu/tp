@@ -7,11 +7,12 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "adrian-luah-jun-kang": "Adrian Luah Jun Kang",
+        "alexandra-martina-setiawan": "Alexandra Martina Setiawan",
+        "amanda-tasya-dedi": "Amanda Tasya Dedi",
+        "edrich": "Edrich",
+        "minhong": "Minhong",
+        "jiang-yuzhe": "Jiang Yuzhe"
       },
       "headingKeywords": {}
     },
@@ -40,7 +41,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "tassist-developer-guide": "TAssist Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -51,7 +52,10 @@
         "storage-component": "Storage component",
         "common-classes": "Common classes",
         "implementation": "Implementation",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "assignment-mark-feature": "Assignment mark feature",
+        "sorting-displayed-students": "Sorting displayed students",
+        "attendance-feature": "Attendance feature",
+        "undo-redo-feature": "Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-dev-ops": "Documentation, logging, testing, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -62,7 +66,13 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "sorting-the-displayed-students": "Sorting the displayed students",
+        "deleting-a-student": "Deleting a student",
+        "recording-attendance": "Recording attendance",
+        "assigning-work-to-a-student": "Assigning work to a student",
+        "recording-an-assignment-mark": "Recording an assignment mark",
+        "viewing-assignment-marks": "Viewing assignment marks",
+        "removing-assignments": "Removing assignments",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -107,16 +117,29 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "tassist-user-guide": "TAssist User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help: help",
-        "adding-a-person-add": "Adding a person: add",
-        "listing-all-persons-list": "Listing all persons: list",
-        "editing-a-person-edit": "Editing a person: edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
-        "deleting-a-person-delete": "Deleting a person: delete",
+        "adding-a-student-add": "Adding a student: add",
+        "listing-all-students-list": "Listing all students: list",
+        "editing-a-student-edit": "Editing a student: edit",
+        "locating-students-by-name-or-matriculation-number-find": "Locating students by name or matriculation number: find",
+        "viewing-a-student-s-details-view": "Viewing a student's details: view",
+        "assigning-work-to-a-student-assignment": "Assigning work to a student: assignment",
+        "recording-an-assignment-mark-mark": "Recording an assignment mark: mark",
+        "viewing-an-assignment-s-marks-marks": "Viewing an assignment's marks: marks",
+        "removing-an-assignment-removeassignment": "Removing an assignment: removeassignment",
+        "deleting-students-delete": "Deleting students: delete",
+        "sorting-displayed-students-sort": "Sorting displayed students: sort",
+        "marking-attendance-attendance": "Marking attendance: attendance",
+        "unmarking-attendance-attendance-unmark": "Unmarking attendance: attendance unmark",
+        "filtering-students-by-class-module-filter": "Filtering students by class/module: filter",
+        "enrolling-a-student-in-a-class-enroll": "Enrolling a student in a class: enroll",
+        "unenrolling-a-student-unenroll": "Unenrolling a student unenroll",
         "clearing-all-entries-clear": "Clearing all entries: clear",
+        "undoing-a-change-undo": "Undoing a change: undo",
+        "redoing-a-change-redo": "Redoing a change: redo",
         "exiting-the-program-exit": "Exiting the program: exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
@@ -131,15 +154,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
-      "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "tassist": "TAssist"
       },
       "headingKeywords": {}
     }
